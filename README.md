@@ -1,10 +1,13 @@
-# CD-BLOCK-1 | HTTP Basic Auth
-## This block is the simplest login system in Flask: HTTP Basic Auth
+**CD-BLOCK-1**<br/>
+*Simplest Login (HTTP Basic Auth in Flask)*
 
-### Link to related blog post: 
-https://www.citizendev.au/2023/10/cd-block-1-simplest-login-http-basic.html#more
+Description: A simple login page just to unlock the page. 
 
-### Reference: 
-This is heavily adopted from the below video of Anthony Herbert of PrettyPrinted. <br/>
-https://youtu.be/8VmpH2f1jOk?feature=shared  <br/>
-https://prettyprinted.com/ <br/> 
+GitHub Link: https://github.com/codesydney/cd-block-1
+
+Block Contributor: Engramar Bollas
+
+Reference/Attribution:
+This is heavily adopted from the below video of Anthony Herbert of PrettyPrinted.
+https://youtu.be/8VmpH2f1jOk?feature=shared
+https://prettyprinted.com/
