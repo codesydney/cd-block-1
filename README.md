@@ -1,7 +1,7 @@
 ### CD-BLOCK-1 ###
 ## Simplest Login (HTTP Basic Auth in Flask) ##
 
-Description: A simple login page just to unlock the page. 
+Description: This block is a simple login mechanism just to unlock the page. 
 
 GitHub Link: https://github.com/codesydney/cd-block-1
 
