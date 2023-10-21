@@ -1,5 +1,5 @@
-**CD-BLOCK-1**<br/>
-*Simplest Login (HTTP Basic Auth in Flask)*
+### CD-BLOCK-1 ###
+## Simplest Login (HTTP Basic Auth in Flask) ##
 
 Description: A simple login page just to unlock the page. 
 
