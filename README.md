@@ -5,7 +5,7 @@ Description: This block is a simple login mechanism just to unlock the page.
 
 GitHub Link: https://github.com/codesydney/cd-block-1
 
-Block Contributor: Engramar Bollas
+Block Contributor: [Engramar Bollas](https://au.linkedin.com/in/engramarbollas)
 
 Screenshots:<br/> 
 
